@@ -1,3 +1,2 @@
-var moment = moment()
+var moment = moment(currentDay);
 
-console.log(moment.format("dddd MMMM Mo YYYY"));
